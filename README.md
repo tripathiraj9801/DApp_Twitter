@@ -1,6 +1,6 @@
 # Dapp_Twitter
 
-<img width="1188" alt="DSA banner" src=">
+<img width="1188" alt="DSA banner" src="https://github.com/tripathiraj9801/DApp_Twitter/blob/main/web1%20vs%202%20vs%203.jpg">
 
 
 
