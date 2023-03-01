@@ -21,12 +21,12 @@ Dapp_Twitter is a decentralized social media platform built on blockchain techno
 - To use Web 3 Twitter, you need to have a Web 3 wallet that supports the Ethereum blockchain, such as MetaMask. <br>
 - You also need to be connected to the Ethereum network.<br>
 - To run this particular implementation of Web 3 Twitter, you need to clone the repository and install the necessary dependencies.<br>
-- You can do this by running the following commands:
+- You can do this by running the following commands:<br>
 - Bash
   Copy code
-- git clone https://github.com/tripathiraj9801/DApp_Twitter.git
-- cd DApp_Twitter
-- npm install
+- git clone https://github.com/tripathiraj9801/DApp_Twitter.git <br>
+- cd DApp_Twitter <br>
+- npm install <br>
 
 <h3> Usage </h3>
 - To run the Web 3 Twitter DApp, you need to start the local Ethereum network and deploy the smart contract. You can do this by running the following commands:
