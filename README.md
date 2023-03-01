@@ -1,4 +1,5 @@
-#Web 3 Twitter
+# Data-Structures-Algorithms 
+
 Web 3 Twitter is a decentralized social media platform built on blockchain technology that aims to provide a censorship-resistant and trustless social media experience. This particular implementation of Web 3 Twitter is based on Ethereum blockchain and uses smart contracts to manage user data and interactions. Unlike traditional social media platforms, Web 3 Twitter allows users to have complete control over their data and interactions with others.
 
 Features
