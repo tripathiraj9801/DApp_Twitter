@@ -18,8 +18,9 @@ Dapp_Twitter is a decentralized social media platform built on blockchain techno
 - Open source: Web 3 Twitter is open source, which means anyone can contribute to its development and security.
 
 <h3> Installation </h3> 
-- To use Web 3 Twitter, you need to have a Web 3 wallet that supports the Ethereum blockchain, such as MetaMask. You also need to be connected to the Ethereum network.
-- To run this particular implementation of Web 3 Twitter, you need to clone the repository and install the necessary dependencies. 
+- To use Web 3 Twitter, you need to have a Web 3 wallet that supports the Ethereum blockchain, such as MetaMask. <br>
+- You also need to be connected to the Ethereum network.<br>
+- To run this particular implementation of Web 3 Twitter, you need to clone the repository and install the necessary dependencies.<br>
 - You can do this by running the following commands:
 - Bash
   Copy code
