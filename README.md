@@ -45,6 +45,6 @@ This will start the DApp on your local machine, and you can access it by navigat
 We welcome contributions from anyone interested in helping to improve Web 3 Twitter. If you want to contribute, please fork the repository and create a pull request with your changes.
 
 
-Contact
+<h3>Contact<h3>
 If you have any questions or feedback, you can contact us at tripathirajeev9801@gmail.com
 .
