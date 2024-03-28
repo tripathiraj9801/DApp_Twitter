@@ -1,10 +1,5 @@
 # Dapp_Twitter
 
-<img width="720" alt="DSA banner" src="https://github.com/tripathiraj9801/DApp_Twitter/blob/main/web1%20vs%202%20vs%203.jpg">
-
-
-
-
 Dapp_Twitter is a decentralized social media platform built on blockchain technology that aims to provide a censorship-resistant and trustless social media experience. This particular implementation of Web 3 Twitter is based on Ethereum blockchain and uses smart contracts to manage user data and interactions. Unlike traditional social media platforms, Web 3 Twitter allows users to have complete control over their data and interactions with others.
 
 <h3> Features </h3> 
@@ -21,6 +16,10 @@ Dapp_Twitter is a decentralized social media platform built on blockchain techno
 - No ads: Unlike traditional social media platforms, Web 3 Twitter doesn't rely on ads to generate revenue. Instead, users can earn cryptocurrency for creating and curating content.
 
 - Open source: Web 3 Twitter is open source, which means anyone can contribute to its development and security.
+
+
+<img width="720" alt="DSA banner" src="https://github.com/tripathiraj9801/DApp_Twitter/blob/main/web1%20vs%202%20vs%203.jpg">
+
 
 <h3> Installation </h3> 
 - To use Web 3 Twitter, you need to have a Web 3 wallet that supports the Ethereum blockchain, such as MetaMask. <br>
